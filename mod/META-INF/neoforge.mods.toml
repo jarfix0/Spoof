@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="Public Domain"
+license="MIT"
 
 [[mods]]
 modId="spoofedupdate"
@@ -9,7 +9,7 @@ displayName="1.21.7 Spoofer"
 displayURL="https://mcreator.net"
 logoFile="logo.png"
 credits="Nieotica, Minecraft Wiki, Stairdawn"
-authors="robsh, MCreator"
+authors="Nieotica"
 description="Adds the 1.21.7 Hotfix changes to recent versions!"
 
 # Start of user code block mod configuration
