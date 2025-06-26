@@ -6,10 +6,10 @@ license="MIT"
 modId="spoofedupdate"
 version="1.0.0"
 displayName="1.21.7 Spoofer"
-displayURL="https://mcreator.net"
+displayURL="Unspecified"
 logoFile="logo.png"
-credits="Nieotica, Minecraft Wiki, Stairdawn"
-authors="Nieotica"
+credits="Nieotica (jarfix0), Minecraft Wiki, Stairdawn"
+authors="Nieotica (jarfix0)"
 description="Adds the 1.21.7 Hotfix changes to recent versions!"
 
 # Start of user code block mod configuration
