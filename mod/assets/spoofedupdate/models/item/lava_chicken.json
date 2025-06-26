@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spoofedupdate:item/music_disc_lava_chicken_je1_be1_1"
+  }
+}

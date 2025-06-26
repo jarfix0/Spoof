@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Public Domain"
+
+[[mods]]
+modId="spoofedupdate"
+version="1.0.0"
+displayName="1.21.7 Spoofer"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Nieotica, Minecraft Wiki, Stairdawn"
+authors="robsh, MCreator"
+description="Adds the 1.21.7 Hotfix changes to recent versions!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.spoofedupdate]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.5.75,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.spoofedupdate]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.5]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

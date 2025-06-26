@@ -1,0 +1,10 @@
+{
+  "lavachicken": {
+    "sounds": [
+      {
+        "name": "spoofedupdate:minecraftlavachicken_1",
+        "stream": true
+      }
+    ]
+  }
+}

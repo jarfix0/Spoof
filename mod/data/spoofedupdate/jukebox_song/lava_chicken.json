@@ -1,0 +1,8 @@
+{
+  "comparator_output": 8,
+  "description": {
+    "translate": "item.spoofedupdate.lava_chicken.desc"
+  },
+  "length_in_seconds": 134,
+  "sound_event": "spoofedupdate:lavachicken"
+}

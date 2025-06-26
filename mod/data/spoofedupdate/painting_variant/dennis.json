@@ -1,0 +1,11 @@
+{
+  "asset_id": "spoofedupdate:dennis",
+  "height": 3,
+  "width": 3,
+  "title": {
+    "translate": "painting.spoofedupdate.dennis.title"
+  },
+  "author": {
+    "translate": "painting.spoofedupdate.dennis.author"
+  }
+}
